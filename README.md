@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fakhri Musyaffa</h1>
 
-<p align="left">
-</p>
+<br>
+<br>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
